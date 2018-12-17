@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33814c66-8ed0-4e6b-9d2f-e9286136ef7b" name="Default" comment="==">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/androidTest/java/com/example/recyclerview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Adapter/FragmentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Adapter/GridAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Adapter/LinearAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Adapter/StaggeredAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Bean/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/DividerGridItemDecoration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Fragment/recycle_staggered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Fragment/recycler_grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/Fragment/recycler_linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/java/com/example/recyclerview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/psb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/recycler_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/recycler_divider_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zn6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/drawable/zz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_grid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_grid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_linear.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_linear_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_staggered.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/layout/recycler_staggered_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview/src/test/java/com/example/recyclerview/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/androidTest/java/com/example/recyclerview_moreitem/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/java/com/example/recyclerview_moreitem/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/java/com/example/recyclerview_moreitem/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/java/com/example/recyclerview_moreitem/XRecyclerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/drawable/zn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/drawable/zn4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/layout/item_recycler_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/layout/item_recycler_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recyclerview_moreitem/src/test/java/com/example/recyclerview_moreitem/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/androidTest/java/com/example/yangweihan1210/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/Adapter/FragmentAdpater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/BannerFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/Bean/BannerBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/Bean/UserBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/CallBack/MyCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/HttpUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/IMode/IMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/IMode/IModelleml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/IPresenter/IPresenterleml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/IPresenter/IPresnter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/QRCode1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/QRCodeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/ShowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/java/com/example/yangweihan1210/View/IView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/layout/activity_show.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/layout/bannerfragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yangweihan1210/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <chan
